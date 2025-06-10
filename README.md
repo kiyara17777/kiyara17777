@@ -37,8 +37,8 @@ I believe in hands-on learning and love to turn small ideas into useful solution
 
 ## 🤝 Let's Connect
 
-📫 **Email:** [your-email@example.com]  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com)  
+📫 **Email:** kiyara17777@gmail.com
+💼 **LinkedIn:** https://www.linkedin.com/in/kiyarachandrawat/
 🌐 **Portfolio:** Coming soon...
 
 ---
