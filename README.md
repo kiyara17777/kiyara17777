@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hey there, I'm Kiyara!
 
-<!--
-**kiyara17777/kiyara17777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Undergrad at IGDTUW | 💻 C++ Enthusiast | ✨ Builder at Heart
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a Computer Science student from IGDTUW, passionate about creating and experimenting with code. Currently diving deep into:
+
+- 🔐 Developing tools with **C++** (like file encryption)
+- 🌐 Crafting clean and simple UIs with **HTML/CSS**
+- 🧠 Practicing **Data Structures & Algorithms** daily
+- ⚡ Participating in **hackathons** & team coding projects
+- 🌱 Learning how to build real-world software from scratch
+
+I believe in hands-on learning and love to turn small ideas into useful solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** C++, Python (beginner), HTML, CSS, JavaScript (basics)  
+**Tools:** VS Code, Git & GitHub  
+**Concepts:** OOP, File Handling, XOR Encryption, Data Structures, Web UI  
+**Learning:** NumPy, Pandas, GitHub Collaboration, Decryption Logic  
+
+---
+
+## 📂 Featured Projects
+
+🔐 **CodePhantom** — C++ file encryption tool with Phantom Mode (disguises files as .jpg/.mp3)  
+🎨 **Frontend Practice Pages** — Clean HTML/CSS UIs for learning and creativity  
+🧪 **Mini Python Projects** — Ongoing scripts for automation & logic practice  
+
+---
+
+## 🤝 Let's Connect
+
+📫 **Email:** [your-email@example.com]  
+💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com)  
+🌐 **Portfolio:** Coming soon...
+
+---
+
+> *“Keep building. Keep learning. Keep exploring.”* 🚀
